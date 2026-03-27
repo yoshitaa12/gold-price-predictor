@@ -87,4 +87,6 @@ python -m streamlit run app.py
 * Deploy on cloud platforms
 
 ---
+## 🚀 Live Demo
+https://gold-price-predictor-3upacsalvahiyqpvduqtan.streamlit.app
 
